@@ -1,0 +1,1 @@
+Add PlatformIO/ESP32 project here when hardware is available.
